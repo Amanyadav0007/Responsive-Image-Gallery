@@ -5,5 +5,5 @@ I'm excited to share my latest web design project - a gallery of stunning photos
 
 Check it our website live on server : https://curiousgallery.netlify.app
 
-"Hi! I share coding projects and tips on Instagram at @curious_coder_aman (https://www.instagram.com/curious_coder_aman/)
- Follow me if you're interested!"
+"Hi there! I wanted to drop a quick message to let you know about my Instagram account. As a coder, I often post about my latest coding projects, and I also share tips and insights for fellow developers. 
+If you're interested in checking it out, my handle is : https://www.instagram.com/curious_coder_aman/
