@@ -1,0 +1,47 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    transition: all .2s linear;
+}
+
+body {
+    background: #e8eaff;
+}
+
+h1 {
+    font-size: 50px;
+    margin-top: 10px;
+    color: #202020;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: sans-serif;
+}
+
+.gallery {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.gallery .box {
+    height: 200px;
+    width: 300px;
+    margin: 20px;
+    overflow: hidden;
+    border-radius: 5px;
+    box-shadow: 0 3px 5px #000;
+
+}
+
+.gallery .box img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.gallery .box img:hover {
+    transform: scale(1.4);
+}
